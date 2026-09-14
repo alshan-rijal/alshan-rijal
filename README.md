@@ -1,7 +1,10 @@
-<!-- HEADER -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=ALSHAN%20RIJAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20CLOUD&descAlignY=60&descSize=18" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=ALSHAN%20RIJAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20CLOUD&descAlignY=60&descSize=18"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alshan Rijal</h1>
@@ -24,23 +27,26 @@
 
 ---
 
-## 🧠 About Me
+<!-- ======================= ABOUT ======================= -->
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 Currently Building
+### 🚀 What I'm Building
 
-**NOVA** — an AI model for intelligent, real-world assistance.
+Currently working on **NOVA** — an AI model focused on intelligent, real-world assistance.
 
-I'm exploring how AI/ML can be combined with practical software systems to create useful applications.
+I enjoy turning ideas into practical software and experimenting with AI/ML technologies.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Currently Learning
+### 📚 What I'm Learning
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Python
@@ -50,103 +56,112 @@ I'm exploring how AI/ML can be combined with practical software systems to creat
 - 🧠 AI model development, training & deployment
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+<!-- ======================= NOVA ======================= -->
+
+## 🧠 NOVA
+
+<p align="center">
+  <b>An AI model for intelligent, real-world assistance.</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,aws" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=NOVA">
+    <img src="https://img.shields.io/badge/View%20NOVA-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
 
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
-<!-- NOVA -->
+<!-- PROJECT 1 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">🧠 NOVA</h2>
+<h3 align="center">🧠 NOVA</h3>
 
 <p align="center">
-  🤖 <b>AI / ML</b>
+  <b>AI / ML</b>
 </p>
 
 <p align="center">
-  ⚙️ Intelligent assistance system
+  Intelligent AI system designed for practical, real-world assistance.
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/alshanrijal?tab=repositories&q=NOVA">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 View Project
   </a>
 </p>
 
 </td>
 
-
-<!-- GRAPHATHON -->
+<!-- PROJECT 2 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">📊 Graphathon</h2>
+<h3 align="center">📊 Graphathon</h3>
 
 <p align="center">
-  🌐 <b>Web Application</b>
+  <b>Web Application</b>
 </p>
 
 <p align="center">
-  ⚡ Event registration platform
+  A registration platform built for managing participants and event workflows.
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/alshanrijal?tab=repositories&q=Graphathon">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 View Project
   </a>
 </p>
 
 </td>
 
-
-<!-- AI EXPERIMENTS -->
+<!-- PROJECT 3 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">🔬 AI Experiments</h2>
+<h3 align="center">🔬 AI Experiments</h3>
 
 <p align="center">
-  🧪 <b>Research / Learning</b>
+  <b>AI / ML Research</b>
 </p>
 
 <p align="center">
-  🧬 ML & computer vision experiments
+  Machine learning, computer vision and AI experiments while exploring new ideas.
 </p>
-
-<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/alshanrijal?tab=repositories&q=AI">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 Explore Projects
   </a>
 </p>
 
@@ -156,93 +171,79 @@ I'm exploring how AI/ML can be combined with practical software systems to creat
 
 <tr>
 
-<!-- PERSONAL PORTFOLIO -->
+<!-- PROJECT 4 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">🌐 Personal Portfolio</h2>
+<h3 align="center">🌐 Personal Portfolio</h3>
 
 <p align="center">
-  💻 <b>Portfolio Website</b>
+  <b>Portfolio Website</b>
 </p>
 
 <p align="center">
-  🚀 Personal website & developer profile
+  My personal website showcasing my work, projects and technical journey.
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://alshanrijal.com.np">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 Visit Portfolio
   </a>
 </p>
 
 </td>
 
-
-<!-- MERN + PYTHON -->
+<!-- PROJECT 5 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">⚡ Full-Stack Portfolio</h2>
+<h3 align="center">⚡ Full-Stack Portfolio</h3>
 
 <p align="center">
-  🌐 <b>MERN + Python</b>
+  <b>MERN + Python</b>
 </p>
 
 <p align="center">
-  🚀 Modern full-stack application
+  A modern full-stack project combining the MERN stack with Python-powered functionality.
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/alshanrijal?tab=repositories&q=portfolio">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 View Project
   </a>
 </p>
 
 </td>
 
-
-<!-- KAMKHOJ -->
+<!-- PROJECT 6 -->
 
 <td width="33.33%" valign="top">
 
-<h2 align="center">🔎 KamKhoj</h2>
+<h3 align="center">🔎 KamKhoj</h3>
 
 <p align="center">
-  🌐 <b>Web Application</b>
+  <b>Web Application</b>
 </p>
 
 <p align="center">
-  🚀 Practical platform & application
+  A practical platform built around connecting users with useful opportunities and services.
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/alshanrijal?tab=repositories&q=KamKhoj">
-    🔗 <b>VIEW PROJECT</b>
+    🔗 View Project
   </a>
 </p>
 
@@ -253,43 +254,78 @@ I'm exploring how AI/ML can be combined with practical software systems to creat
 
 ---
 
+<!-- ======================= TECH STACK ======================= -->
+
 # 🛠️ Languages & Tools
 
+### 💻 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,php" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular,vue" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,nestjs,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask" />
 </p>
+
+### 🗄️ Databases & Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
 </p>
 
+### 🤖 AI / Machine Learning
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
-</p>
+### ☁️ Cloud & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash,vscode" />
 </p>
 
 ---
+
+<!-- ======================= CURRENT FOCUS ======================= -->
 
 # 🎯 Current Focus
 
 <table align="center">
 <tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">🌐<br><b>Full-Stack</b></td>
-<td align="center">☁️<br><b>Cloud</b></td>
-<td align="center">🔬<br><b>Research</b></td>
+
+<td align="center" width="20%">
+  🤖<br>
+  <b>AI / ML</b>
+</td>
+
+<td align="center" width="20%">
+  🐍<br>
+  <b>Python</b>
+</td>
+
+<td align="center" width="20%">
+  🌐<br>
+  <b>Full-Stack</b>
+</td>
+
+<td align="center" width="20%">
+  ☁️<br>
+  <b>Cloud</b>
+</td>
+
+<td align="center" width="20%">
+  🔬<br>
+  <b>Research</b>
+</td>
+
 </tr>
 </table>
 
@@ -300,62 +336,116 @@ I'm exploring how AI/ML can be combined with practical software systems to creat
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ======================= WHAT I BUILD ======================= -->
+
+# 💡 What I Like Building
+
+<table align="center">
+<tr>
+
+<td align="center">
+  🤖<br>
+  <b>AI Systems</b>
+</td>
+
+<td align="center">
+  🧠<br>
+  <b>Machine Learning</b>
+</td>
+
+<td align="center">
+  🐍<br>
+  <b>Python</b>
+</td>
+
+<td align="center">
+  ⚙️<br>
+  <b>APIs & Backend</b>
+</td>
+
+<td align="center">
+  🌐<br>
+  <b>Full-Stack Apps</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ======================= GITHUB ======================= -->
+
+# 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alshanrijal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&hide_title=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshanrijal&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide_title=true" height="170"/>
+  <a href="https://github.com/alshanrijal">
+    <img src="https://img.shields.io/github/followers/alshanrijal?style=for-the-badge&label=Followers" />
+  </a>
+
+  <a href="https://github.com/alshanrijal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/alshanrijal?style=for-the-badge&label=Total%20Stars" />
+  </a>
+
+  <a href="https://github.com/alshanrijal?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-111827?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alshanrijal&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alshanrijal&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
+  <i>Check my GitHub profile for my live contribution graph, repositories and activity.</i>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alshanrijal&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
----
+<!-- ======================= CONNECT ======================= -->
 
 # 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://alshanrijal.com.np">
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
 </a>
 
 <a href="mailto:contact@alshanrijal.com.np">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://instagram.com/alshan_rijal_">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-
-<a href="https://www.youtube.com/c/alshan-rijal">
-<img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 <a href="https://github.com/alshanrijal">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
+<a href="https://instagram.com/alshan_rijal_">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+<a href="https://www.youtube.com/c/alshan-rijal">
+  <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://alshanrijal.com.np">
+    🌐 alshanrijal.com.np
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:contact@alshanrijal.com.np">
+    ✉️ contact@alshanrijal.com.np
+  </a>
 </p>
 
 ---
 
+<!-- ======================= PROFILE VIEWS ======================= -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alshanrijal&style=for-the-badge&color=111827&label=PROFILE+VIEWS"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=alshanrijal&style=for-the-badge&color=111827&label=PROFILE+VIEWS"
+  />
 </p>
+
+---
 
 <p align="center">
   <b>💡 Debug. Build. Learn. Repeat.</b>
@@ -365,8 +455,11 @@ I'm exploring how AI/ML can be combined with practical software systems to creat
   <i>Always learning. Always building.</i>
 </p>
 
----
+<!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"
+    width="100%"
+  />
 </p>
