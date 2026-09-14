@@ -1,161 +1,112 @@
-<div align="center">
+# 👋 Hi, I'm Alshan Rijal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=ALSHAN%20RIJAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20CLOUD&descAlignY=60&descSize=18"/>
+### AI/ML • Full-Stack • Cloud
 
-### ⚡ Building intelligent software for real-world problems.
+I build practical software, experiment with AI/ML, and turn ideas into real-world applications.
 
-<br>
-
-<a href="https://alshanrijal.com.np">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
-</a>
-<a href="mailto:contact@alshanrijal.com.np">
-<img src="https://img.shields.io/badge/✉️%20Contact-111827?style=for-the-badge"/>
-</a>
-<a href="https://github.com/alshanrijal">
-<img src="https://img.shields.io/badge/💻%20GitHub-111827?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<br>
-
-## 🧑‍💻 About
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🤖<br> <b>AI / ML</b><br> <sub>Building intelligent systems</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-🐍<br> <b>Python</b><br> <sub>My primary AI language</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-🌐<br> <b>Full-Stack</b><br> <sub>Web & API development</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-☁️<br> <b>Cloud</b><br> <sub>Learning scalable deployment</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://alshanrijal.com.np">🌐 Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:contact@alshanrijal.com.np">✉️ Email</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/alshanrijal">💻 GitHub</a>
+</p>
 
 ---
 
-## 🚀 Currently Building
+## 🧠 About Me
 
-<div align="center">
-
-# 🧠 NOVA
-
-### `Intelligent AI Assistance`
-
-**An AI/ML project focused on practical, real-world assistance.**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,aws" />
-
-</div>
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🐍 Building with **Python**
+- 🌐 Developing **full-stack web applications**
+- ☁️ Learning and working with **cloud technologies**
+- 🔬 Interested in **AI systems, computer vision & intelligent applications**
+- 🚀 Always learning by building real projects
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alshanrijal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&hide_title=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshanrijal&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide_title=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alshanrijal&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alshanrijal&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alshanrijal&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-## 💎 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-### 🧠 NOVA
+<h3 align="center">🧠 NOVA</h3>
 
-🤖 **AI / ML**
+<p align="center">
+  <b>AI / ML</b>
+</p>
 
-⚙️ Intelligent assistance system
+<p align="center">
+  Intelligent assistance system built around AI/ML concepts and practical real-world use cases.
+</p>
 
-<br>
+<p align="center">
+  <code>Python</code>
+  <code>PyTorch</code>
+  <code>AI/ML</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-<br><br>
-
-<a href="https://github.com/alshanrijal">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111827?style=for-the-badge"/>
-</a>
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=NOVA">
+    🔗 View Project
+  </a>
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-### 📊 Graphathon
+<h3 align="center">📊 Graphathon</h3>
 
-🌐 **Web Application**
+<p align="center">
+  <b>Web Application</b>
+</p>
 
-⚡ Event registration platform
+<p align="center">
+  Event registration platform developed for managing participants and registrations.
+</p>
 
-<br>
+<p align="center">
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>Supabase</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=Graphathon">
+    🔗 View Project
+  </a>
+</p>
 
-<br><br>
+</td>
 
-<a href="https://github.com/alshanrijal">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111827?style=for-the-badge"/>
-</a>
+<td width="33%" valign="top">
+
+<h3 align="center">🔬 AI Experiments</h3>
+
+<p align="center">
+  <b>Research / Learning</b>
+</p>
+
+<p align="center">
+  A collection of machine learning, computer vision and AI experiments created while learning and exploring new ideas.
+</p>
+
+<p align="center">
+  <code>Python</code>
+  <code>PyTorch</code>
+  <code>OpenCV</code>
+  <code>ML</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=AI">
+    🔗 Explore Projects
+  </a>
+</p>
 
 </td>
 
@@ -163,43 +114,83 @@
 
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-### 🔬 AI Experiments
+<h3 align="center">🌐 Personal Portfolio</h3>
 
-🧪 **Research / Learning**
+<p align="center">
+  <b>Portfolio Website</b>
+</p>
 
-📚 ML & computer vision experiments
+<p align="center">
+  My personal portfolio showcasing my work, interests, projects and technical journey.
+</p>
 
-<br>
+<p align="center">
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-<br><br>
-
-<a href="https://github.com/alshanrijal?tab=repositories">
-<img src="https://img.shields.io/badge/📂%20Repositories-111827?style=for-the-badge"/>
-</a>
+<p align="center">
+  <a href="https://alshanrijal.com.np">
+    🔗 Visit Portfolio
+  </a>
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" valign="top">
 
-### ⚡ More
+<h3 align="center">⚡ Full-Stack Portfolio</h3>
 
-🚀 **Experiments & Tools**
+<p align="center">
+  <b>MERN + Python</b>
+</p>
 
-🛠️ Constantly building & learning
+<p align="center">
+  A more advanced portfolio/application built around modern full-stack technologies and Python-powered functionality.
+</p>
 
-<br>
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>MongoDB</code>
+  <code>Express</code>
+  <code>Python</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode" />
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=portfolio">
+    🔗 View Project
+  </a>
+</p>
 
-<br><br>
+</td>
 
-<a href="https://github.com/alshanrijal?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20Explore%20All-111827?style=for-the-badge"/>
-</a>
+<td width="33%" valign="top">
+
+<h3 align="center">🔎 KamKhoj</h3>
+
+<p align="center">
+  <b>Web Application</b>
+</p>
+
+<p align="center">
+  A practical platform focused on connecting people with useful opportunities and services.
+</p>
+
+<p align="center">
+  <code>Web</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alshanrijal?tab=repositories&q=KamKhoj">
+    🔗 View Project
+  </a>
+</p>
 
 </td>
 
@@ -208,119 +199,81 @@
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-### 🧠 AI / Data
+<p>
+  <code>Python</code>
+  <code>C</code>
+  <code>C++</code>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>PHP</code>
+  <code>SQL</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas"/>
+### AI / ML
 
-<br><br>
+<p>
+  <code>PyTorch</code>
+  <code>TensorFlow</code>
+  <code>scikit-learn</code>
+  <code>OpenCV</code>
+  <code>Pandas</code>
+  <code>NumPy</code>
+</p>
 
-### 🌐 Web
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql"/>
+<p>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>MongoDB</code>
+  <code>Flask</code>
+</p>
 
-<br><br>
+### Cloud & Tools
 
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,firebase,supabase"/>
-
-<br><br>
-
-### ⚙️ Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,c,cpp"/>
-
-</div>
+<p>
+  <code>AWS</code>
+  <code>Docker</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Linux</code>
+  <code>Firebase</code>
+  <code>Supabase</code>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-🤖<br> <b>Machine Learning</b>
-
-</td>
-
-<td align="center">
-
-🧠<br> <b>Deep Learning</b>
-
-</td>
-
-<td align="center">
-
-🐍<br> <b>Python</b>
-
-</td>
-
-<td align="center">
-
-⚛️<br> <b>React</b>
-
-</td>
-
-<td align="center">
-
-☁️<br> <b>AWS</b>
-
-</td>
-
-<td align="center">
-
-🐳<br> <b>Docker</b>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+| Area | Focus |
+|------|-------|
+| 🤖 AI / ML | Machine learning, computer vision & intelligent systems |
+| 🐍 Python | AI/ML development and backend systems |
+| 🌐 Full-Stack | React, Node.js, APIs & databases |
+| ☁️ Cloud | AWS, deployment & cloud infrastructure |
+| 🔬 Research | Experimenting with new AI/ML ideas |
 
 ---
 
-## 🌐 Connect
+## 📌 What I Like Building
 
-<div align="center">
-
-<a href="https://www.instagram.com/alshan_rijal_/">
-<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/alshan-rijal">
-<img src="https://skillicons.dev/icons?i=youtube" width="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@alshanrijal.com.np">
-<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=alshanrijal&style=for-the-badge&color=111827&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `BUILD` ⚙️ `LEARN` 🧠 `SHIP` 🚀 `REPEAT` 🔄
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
-
-<!--
-  Alshan Rijal
-  AI/ML • Full-Stack • Cloud
--->
+```text
+AI Systems
+     ↓
+Machine Learning
+     ↓
+Python Development
+     ↓
+APIs & Backend
+     ↓
+Full-Stack Applications
+     ↓
+Real-World Products
