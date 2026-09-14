@@ -1,28 +1,269 @@
-<h1 align="center">Hi 👋, I'm Alshan Rijal</h1>
-<h3 align="center">Learning AI/ML and Cloud while building practical, full-stack solutions</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **NOVA — an AI model for intelligent, real-world assistance**
+# Hi 👋, I'm Alshan Rijal
 
-- 🌱 I’m currently learning **AI/ML, Python, AWS, and the MERN stack (MongoDB, Express, React, Node.js)**
+### AI/ML • Full-Stack • Cloud
 
-- 👯 I’m looking to collaborate on **AI/ML projects, intelligent web applications & open-source projects**
+**Building intelligent software that solves practical, real-world problems.**
 
-- 🤝 I’m looking for help with **AI model development, training, optimization & deployment**
-
-- 👨‍💻 All of my projects are available at [https://alshanrijal.com.np](https://alshanrijal.com.np)
-
-- 💬 Ask me about **React, Node.js, MongoDB, Python, and AI/ML basics**
-
-- 📫 How to reach me **contact@alshanrijal.com.np**
-
-- ⚡ Fun fact **I'd rather debug a model at 2am than sleep on a bug I haven't solved yet.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/alshanrijal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alshanrijal7" height="30" width="40" /></a>
-<a href="https://instagram.com/alshan_rijal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alshan_rijal_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alshan-rijal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alshan-rijal" height="30" width="40" /></a>
+<p>
+  <a href="https://alshanrijal.com.np">Portfolio</a> •
+  <a href="https://github.com/alshanrijal">GitHub</a> •
+  <a href="mailto:contact@alshanrijal.com.np">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## ⚡ About Me
+
+I'm an aspiring **AI/ML Engineer** who enjoys turning ideas into working software.
+
+My current focus is on **machine learning, Python, full-stack development, cloud infrastructure, and intelligent applications**.
+
+* 🔭 Currently building **NOVA** — an AI model for intelligent, real-world assistance
+* 🌱 Learning **AI/ML, Python, AWS & the MERN stack**
+* 🧠 Interested in **model development, training, optimization & deployment**
+* 💻 Building practical **full-stack and AI-powered applications**
+* 🤝 Open to collaborating on **AI/ML, intelligent web apps & open source**
+* 🎯 Long-term goal: **build production-ready AI systems**
+
+---
+
+## 🧠 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Python
+Machine Learning
+PyTorch
+Scikit-learn
+Model Development
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Full-Stack
+
+React
+Node.js
+Express
+MongoDB
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ Cloud
+
+AWS
+Docker
+Firebase
+Linux
+Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NOVA
+
+**AI-powered intelligent assistance system**
+
+> An ongoing AI/ML project focused on building a model capable of providing practical, real-world assistance.
+
+`Python` `AI/ML` `PyTorch` `APIs` `Cloud`
+
+---
+
+### 📊 Graphathon
+
+**Modern web-based registration & event platform**
+
+> A practical application built around event registration, participant management and a clean user experience.
+
+`HTML` `CSS` `JavaScript` `Supabase`
+
+---
+
+### 🤖 AI Experiments
+
+**Machine learning & intelligent application experiments**
+
+> A growing collection of experiments exploring machine learning, APIs, computer vision, data processing and AI-powered applications.
+
+`Python` `OpenCV` `Pandas` `Scikit-learn`
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/alshanrijal">
+  <img src="https://github-readme-stats.vercel.app/api?username=alshanrijal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170" />
+</a>
+
+<a href="https://github.com/alshanrijal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshanrijal&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/alshanrijal">
+  <img src="https://streak-stats.demolab.com?user=alshanrijal&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+## 🟩 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/alshanrijal">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alshanrijal&theme=github-compact&hide_border=true&area=true" width="100%" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,flask,django,tailwind" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,firebase,supabase,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+AI Engineering
+├── Machine Learning
+├── Deep Learning
+├── Model Training
+├── Model Optimization
+└── AI Deployment
+
+Cloud & Backend
+├── AWS
+├── Docker
+├── REST APIs
+├── PostgreSQL
+└── Scalable Services
+
+Full-Stack
+├── React
+├── Node.js
+├── Express
+└── Modern JavaScript / TypeScript
+```
+
+---
+
+## 📊 Development Philosophy
+
+> **Build → Break → Debug → Learn → Improve**
+
+I prefer learning by building real projects rather than only following tutorials.
+
+Every project is an opportunity to understand something deeper — whether that's a machine-learning model, an API, a database, or the infrastructure running everything behind it.
+
+---
+
+## 🏆 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alshanrijal&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 💼 What I'm Looking For
+
+I'm interested in collaborating on:
+
+* 🤖 AI / Machine Learning projects
+* 🧠 Intelligent applications
+* 🌐 Full-stack web applications
+* ☁️ Cloud-based systems
+* 🔓 Open-source projects
+* 🚀 Experimental / startup ideas
+
+If you're building something interesting, **let's build it together.**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://alshanrijal.com.np">
+<img src="https://img.shields.io/badge/Portfolio-alshanrijal.com.np-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:contact@alshanrijal.com.np">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/alshan_rijal_/">
+<img src="https://img.shields.io/badge/Instagram-Follow-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/c/alshan-rijal">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-111827?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *I'd rather debug a model at 2 AM than sleep on a bug I haven't solved yet.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=alshanrijal&style=flat-square&color=grey" />
+
+</div>
