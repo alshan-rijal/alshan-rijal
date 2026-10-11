@@ -119,14 +119,14 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 
 <td width="33.33%" valign="top">
 
-<h3 align="center">📊 Graphathon</h3>
+<h3 align="center">📊 Metamorph</h3>
 
 <p align="center">
   <b>Web Application</b>
 </p>
 
 <p align="center">
-  A registration platform built for managing participants and event workflows.
+  Convert images & PDFs, 100% in your browser. Nothing uploaded, nothing stored.
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 </p>
 
 <p align="center">
-  <a href="https://github.com/alshanrijal?tab=repositories&q=Graphathon">
+  <a href="https://github.com/alshan-rijal/Metamorph">
     🔗 View Project
   </a>
 </p>
@@ -142,6 +142,32 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 </td>
 
 <!-- PROJECT 3 -->
+
+<td width="33.33%" valign="top">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+<p align="center">
+  <b>Portfolio Website</b>
+</p>
+
+<p align="center">
+  My personal website showcasing my work, projects and technical journey.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <a href="https://alshanrijal.com.np">
+    🔗 Visit Portfolio
+  </a>
+</p>
+
+</td>
+<!-- PROJECT 4 -->
+
 
 <td width="33.33%" valign="top">
 
@@ -170,32 +196,6 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 </tr>
 
 <tr>
-
-<!-- PROJECT 4 -->
-
-<td width="33.33%" valign="top">
-
-<h3 align="center">🌐 Personal Portfolio</h3>
-
-<p align="center">
-  <b>Portfolio Website</b>
-</p>
-
-<p align="center">
-  My personal website showcasing my work, projects and technical journey.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-<p align="center">
-  <a href="https://alshanrijal.com.np">
-    🔗 Visit Portfolio
-  </a>
-</p>
-
-</td>
 
 <!-- PROJECT 5 -->
 
