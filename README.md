@@ -56,7 +56,7 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/alshan-rijal?tab=repositories">
-    <img src="assets/card-swadghar.svg" width="100%" alt="swadghar" />
+    <img src="assets/swadghar.png" width="100%" alt="swadghar" />
   </a>
 </td>
 <td width="50%" align="center">
