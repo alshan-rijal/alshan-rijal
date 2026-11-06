@@ -29,8 +29,8 @@
 <tr>
 <td width="50%" valign="top">
 🚀 What I'm Building
-<img src="assets/swadghar-status.svg" alt="Now building: Swad Ghar" />
-<img src="assets/logos/swadghar.png" alt="Swad Ghar logo" height="120" />
+<!-- <img src="assets/swadghar-status.svg" alt="Now building: Swad Ghar" /> -->
+<img src="assets/swadghar.png" alt="Swad Ghar logo" height="120" />
 <br><br>
 Currently working on Swad Ghar (Damak, Jhapa), a project I'm building from the ground up, turning an idea into software people can actually use.
 I enjoy turning ideas into practical software and experimenting with AI/ML technologies.
@@ -56,7 +56,7 @@ I enjoy turning ideas into practical software and experimenting with AI/ML techn
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/alshan-rijal?tab=repositories">
-    <img src="assets/swadghar.png" width="100%" alt="swadghar" />
+    <img src="assets/card-swadghar.svg" width="100%" alt="swadghar" />
   </a>
 </td>
 <td width="50%" align="center">
